@@ -1,4 +1,4 @@
-# Vehicle_Detection
+# Highway crash detection and risk estimation 
 
 ## Table of Content
   * [Demo](#demo)
